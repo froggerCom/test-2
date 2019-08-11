@@ -4,7 +4,6 @@ namespace App\Controller;
 
 use App\Entity\Book;
 use App\Manager\BookManager;
-use App\Modifier\BookModifier;
 use Symfony\Component\HttpFoundation\JsonResponse;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\Routing\Annotation\Route;

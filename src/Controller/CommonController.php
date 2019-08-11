@@ -2,7 +2,6 @@
 
 namespace App\Controller;
 
-use App\Modifier\ModifierInterface;
 use Symfony\Component\HttpFoundation\Request;
 
 /**

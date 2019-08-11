@@ -3,7 +3,6 @@
 
 namespace App\Manager;
 
-use App\Entity\Author;
 use App\Entity\Book;
 use App\Modifier\BookModifier;
 use Doctrine\ORM\EntityManagerInterface;

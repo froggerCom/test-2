@@ -69,5 +69,4 @@ class BookModifier implements ModifierInterface
 
         return $value;
     }
-
 }
