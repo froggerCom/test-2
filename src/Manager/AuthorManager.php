@@ -108,8 +108,5 @@ class AuthorManager
                 $author,
                 $this->authorModifier
             );
-        $this
-            ->entityManager
-            ->persist($author);
     }
 }
